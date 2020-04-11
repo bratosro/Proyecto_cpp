@@ -1,0 +1,6 @@
+       **********Catalogo**********
+-->Agua
+-->Refresco
+-->Patatas fritas
+-->Chocolate
+-Para ver la disponibilidad y precio de nuestros productos seleccione la opción de stock
